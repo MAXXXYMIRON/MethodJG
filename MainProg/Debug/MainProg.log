@@ -1,0 +1,5 @@
+﻿  IncArr.cpp
+c:\users\knigh\desktop\methodjg\mainprog\incarr.cpp(12): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\knigh\desktop\methodjg\mainprog\incarr.cpp(23): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\knigh\desktop\methodjg\mainprog\incarr.cpp(24): warning C4018: <: несоответствие типов со знаком и без знака
+  MainProg.vcxproj -> C:\Users\KNIGH\Desktop\MethodJG\Debug\MainProg.exe
