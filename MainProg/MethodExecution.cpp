@@ -19,10 +19,10 @@ void main()
 
 	cout << "Инициализируйте матрицу (последний - ответ)" << endl;
 
-	SLAU = incArray(SLAU, n, m);
+	//SLAU = incArray(SLAU, n, m);
+	SLAU = fastIncArray(SLAU, n, m);
 
-
-
+	outArray(SLAU, n, m);
 
 	system("pause");
 }
