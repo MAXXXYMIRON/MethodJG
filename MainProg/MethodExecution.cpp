@@ -1,6 +1,7 @@
 #include<iostream>
 #include<locale>
 #include"IncArr.h"
+#include"UnitMatrix.h"
 
 using namespace std;
 
@@ -22,6 +23,10 @@ void main()
 	//SLAU = incArray(SLAU, n, m);
 	SLAU = fastIncArray(SLAU, n, m);
 
+	outArray(SLAU, n, m);
+
+	SLAU = matrixJardanGaus(SLAU, n, m);
+	cout << endl;
 	outArray(SLAU, n, m);
 
 	system("pause");

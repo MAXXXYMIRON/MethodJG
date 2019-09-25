@@ -1,11 +1,8 @@
-﻿  IncArr.cpp
-c:\users\knigh\desktop\methodjg\mainprog\incarr.cpp(14): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\knigh\desktop\methodjg\mainprog\incarr.cpp(25): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\knigh\desktop\methodjg\mainprog\incarr.cpp(26): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\knigh\desktop\methodjg\mainprog\incarr.cpp(42): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-c:\users\knigh\desktop\methodjg\mainprog\incarr.cpp(44): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\knigh\desktop\methodjg\mainprog\incarr.cpp(45): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\knigh\desktop\methodjg\mainprog\incarr.cpp(46): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-c:\users\knigh\desktop\methodjg\mainprog\incarr.cpp(56): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\knigh\desktop\methodjg\mainprog\incarr.cpp(58): warning C4018: <: несоответствие типов со знаком и без знака
+﻿  UnitMatrix.cpp
+c:\users\knigh\desktop\methodjg\mainprog\unitmatrix.cpp(35): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\knigh\desktop\methodjg\mainprog\unitmatrix.cpp(50): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\knigh\desktop\methodjg\mainprog\unitmatrix.cpp(55): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\knigh\desktop\methodjg\mainprog\unitmatrix.cpp(70): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\knigh\desktop\methodjg\mainprog\unitmatrix.cpp(83): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\knigh\desktop\methodjg\mainprog\unitmatrix.cpp(40): warning C4715: searchNotZeroCol: значение возвращается не при всех путях выполнения
   MainProg.vcxproj -> C:\Users\KNIGH\Desktop\MethodJG\x64\Debug\MainProg.exe

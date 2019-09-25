@@ -57,7 +57,7 @@ void outArray(float** Arr, unsigned n, unsigned m)
 	{
 		for (int j = 0; j < m; j++) 
 		{
-			cout.width(5);
+			cout.width(10);
 
 			if (j != m - 2)
 				cout << Arr[i][j] << " ";
