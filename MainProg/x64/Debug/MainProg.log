@@ -1,8 +1,1 @@
-﻿  UnitMatrix.cpp
-c:\users\knigh\desktop\methodjg\mainprog\unitmatrix.cpp(35): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\knigh\desktop\methodjg\mainprog\unitmatrix.cpp(50): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\knigh\desktop\methodjg\mainprog\unitmatrix.cpp(55): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\knigh\desktop\methodjg\mainprog\unitmatrix.cpp(70): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\knigh\desktop\methodjg\mainprog\unitmatrix.cpp(83): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\knigh\desktop\methodjg\mainprog\unitmatrix.cpp(40): warning C4715: searchNotZeroCol: значение возвращается не при всех путях выполнения
-  MainProg.vcxproj -> C:\Users\KNIGH\Desktop\MethodJG\x64\Debug\MainProg.exe
+﻿  MainProg.vcxproj -> C:\Users\KNIGH\Desktop\MethodJG\x64\Debug\MainProg.exe

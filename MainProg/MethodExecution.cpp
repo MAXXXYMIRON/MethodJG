@@ -20,14 +20,16 @@ void main()
 
 	cout << "Инициализируйте матрицу (последний - ответ)" << endl;
 
-	//SLAU = incArray(SLAU, n, m);
-	SLAU = fastIncArray(SLAU, n, m);
+	SLAU = incArray(SLAU, n, m);
+	//SLAU = fastIncArray(SLAU, n, m);
 
 	outArray(SLAU, n, m);
 
 	SLAU = matrixJardanGaus(SLAU, n, m);
 	cout << endl;
 	outArray(SLAU, n, m);
+
+	outResult(SLAU, n, m);
 
 	system("pause");
 }
