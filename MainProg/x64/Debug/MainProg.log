@@ -1,1 +1,3 @@
-﻿  MainProg.vcxproj -> C:\Users\KNIGH\Desktop\MethodJG\x64\Debug\MainProg.exe
+﻿  MethodExecution.cpp
+c:\users\knigh\desktop\methodjg\mainprog\methodexecution.cpp(9): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  MainProg.vcxproj -> C:\Users\KNIGH\Desktop\MethodJG\x64\Debug\MainProg.exe
